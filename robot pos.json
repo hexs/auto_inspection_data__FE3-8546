@@ -1,0 +1,86 @@
+{
+"img wh": [4096, 3840],
+    "robot": {
+        "11": {
+            "position": [74, 0, 125, -1],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [0, 0],
+                "img": null
+            }
+        },
+        "12": {
+            "position": [74, 32, 125, -3],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [0, 768],
+                "img": null
+            }
+        },
+        "13": {
+            "position": [74, 64, 125, -5],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [0, 1536],
+                "img": null
+            }
+        },
+        "14": {
+            "position": [74, 95, 125, -7],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [0, 2304],
+                "img": null
+            }
+        },
+        "15": {
+            "position": [74, 126, 125, -9],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [0, 3072],
+                "img": null
+            }
+        },
+        "21": {
+            "position": [303, 0, 125, -1],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [2048, 0],
+                "img": null
+            }
+        },
+        "22": {
+            "position": [303, 32, 125, -3],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [2048, 768],
+                "img": null
+            }
+        },
+        "23": {
+            "position": [303, 64, 125, -5],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [2048, 1536],
+                "img": null
+            }
+        },
+        "24": {
+            "position": [303, 95, 125, -7],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [2048, 2304],
+                "img": null
+            }
+        },
+        "25": {
+            "position": [303, 126, 125, -9],
+            "image_data": {
+                "img xywhn": [0.5, 0.5, 1, 0.5],
+                "overlay_xy": [2048, 3072],
+                "img": null
+            }
+        }
+        
+    }
+}
